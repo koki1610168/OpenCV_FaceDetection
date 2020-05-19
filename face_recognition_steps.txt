@@ -1,0 +1,6 @@
+What did I do to make face recognition
+
+1. install image sets.
+- pip3 install face_recognition
+
+2.
